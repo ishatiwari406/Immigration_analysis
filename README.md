@@ -1,5 +1,5 @@
 # Immigration Data Analysis
-<img src= "C:\Users\admin\OneDrive\Desktop\project1.png">
+![alt text](project1.png)
 
 ## Project Summary
 The goal of this project is to analyze the United Nations dataset on international migration. The dataset contains information on the number of immigrants leaving coutries per year (1980-2013).
